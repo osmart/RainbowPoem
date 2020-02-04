@@ -8,4 +8,5 @@ Green
 Yellow
 Red
 Ivory 
+Khaki 
 This is my Rainbow, and it has these colours!
