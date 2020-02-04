@@ -7,5 +7,5 @@ Blue
 Green
 Yellow
 Red
-
+Ivory 
 This is my Rainbow, and it has these colours!
